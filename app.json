@@ -1,7 +1,8 @@
 {
     "name":"Telegram Index",
     "description":"Python Web App which indexes a telegram channel(or a chat) and serves its files for download.",
-    "repository":"https://github.com/odysseusmax/tg-index",
+    "website": "https://github.com/yuno74/tg-index",
+    "repository": "https://github.com/yuno74/tg-index",
     "success_url":"/",
     "env":{
         "API_ID":{
