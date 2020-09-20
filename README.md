@@ -90,6 +90,8 @@ $ python3 -m app
 
 Here's the api description. [API](https://github.com/odysseusmax/tg-index/wiki/API)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Contributions
 
 Contributions are welcome.
